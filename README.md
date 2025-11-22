@@ -35,7 +35,7 @@ Dự án này là một **Robot Tự Cân Bằng Hai Bánh (Self-Balancing Robot
 
 Sơ đồ dưới đây minh họa cách kết nối các linh kiện chính:
 
-![Sơ Đồ Đấu Dây Robot](/Hình%3.png)
+![Sơ Đồ Đấu Dây Robot](/Hình_3.png)
 
 ### **Chi Tiết Kết Nối**
 
@@ -75,7 +75,7 @@ Phần quan trọng nhất của dự án là tinh chỉnh các hệ số **Kp, 
 
 | Lắp Ráp Hoàn Chỉnh | Góc Nhìn Khác |
 | :--- | :--- |
-| ![Robot Tự Cân Bằng Góc 1](Hình%4.png) | ![Robot Tự Cân Bằng Góc 2](Hình%5.png) |
+| ![Robot Tự Cân Bằng Góc 1](Hình_4.png) | ![Robot Tự Cân Bằng Góc 2](Hình_5.png) |
 
 -----
 
