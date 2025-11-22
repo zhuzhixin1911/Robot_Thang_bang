@@ -1,4 +1,5 @@
-# 🤖 Tên Dự Án: Robot Tự Cân Bằng Hai Bánh (Self-Balancing Robot)
+# 🤖 Tên Dự Án: Robot Tự Cân Bằng Hai Bánh 
+# (Self-Balancing Robot)
 
 
 Dự án này là một **Robot Tự Cân Bằng Hai Bánh (Self-Balancing Robot)** được xây dựng trên nền tảng **Arduino**. Robot sử dụng cảm biến **MPU6050** để xác định độ nghiêng và áp dụng thuật toán **PID (Proportional-Integral-Derivative)** để điều chỉnh tốc độ động cơ, giữ cho robot luôn ở trạng thái thẳng đứng và tự cân bằng.
@@ -34,7 +35,7 @@ Dự án này là một **Robot Tự Cân Bằng Hai Bánh (Self-Balancing Robot
 
 Sơ đồ dưới đây minh họa cách kết nối các linh kiện chính:
 
-![Sơ Đồ Đấu Dây Robot](Hình 3.png)
+![Sơ Đồ Đấu Dây Robot](/)
 
 ### **Chi Tiết Kết Nối**
 
